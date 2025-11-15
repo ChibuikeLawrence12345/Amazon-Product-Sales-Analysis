@@ -137,7 +137,7 @@ data/
 ## Interactive Dashboard
 
 Access the **Power BI Dashboard** here:  
-[[Insert Power BI Dashboard Link](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=47d41471-806d-482c-8d78-5451c5f2cbd5&pbi_source=mobile_android&groupObjectId=6c9c919a-2234-4e67-9354-bcbba25aca17&reportObjectId=60765553-938b-4f29-8e71-a29e499f824c&reportPage=ReportSection&bookmarkGuid=a6c2cb2c-6f3e-4b59-9716-5b7d75a5dc18&fullScreen=0)]  
+[[Power BI Dashboard Link](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=47d41471-806d-482c-8d78-5451c5f2cbd5&pbi_source=mobile_android&groupObjectId=6c9c919a-2234-4e67-9354-bcbba25aca17&reportObjectId=60765553-938b-4f29-8e71-a29e499f824c&reportPage=ReportSection&bookmarkGuid=a6c2cb2c-6f3e-4b59-9716-5b7d75a5dc18&fullScreen=0)]  
 
 ---
 
@@ -146,6 +146,6 @@ Access the **Power BI Dashboard** here:
 For questions or collaborations, contact:  
 - **Name:** Chibuike Lawrence  
 - **Email:** lawchibuike12345@gmail.com 
-- **LinkedIn:** [[Your LinkedIn](https://www.linkedin.com/in/chibuike-lawrence-2348b01b6
+- **LinkedIn:** [(https://www.linkedin.com/in/chibuike-lawrence-2348b01b6
 )]  
-- **GitHub:** [[Your GitHub](https://github.com/ChibuikeLawrence12345)]
+- **GitHub:** [(https://github.com/ChibuikeLawrence12345)]
