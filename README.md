@@ -25,6 +25,8 @@ The aim is to analyze product performance across sales, ratings, and discount le
 
 ## Dataset
 
+Source: Simulated client data challenge (Downloaded from Kaggle)
+
 - **Rows:** 1,465  
 - **Columns:** 26  
 - **Content:** Products, pricing, ratings, review details, and discount information.  
