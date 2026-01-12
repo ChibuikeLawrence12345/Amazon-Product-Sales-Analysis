@@ -103,7 +103,7 @@ data/
    **Expected Outcome:** Improved ratings, reduced returns, and higher trust in the category.
 
 6. **Optimize Discount Ranges Across All Categories**  
-   - Use 0.40–1.0% discounts as a baseline strategy across categories.  
+   - Use 0.40–0.60% discounts as a baseline strategy across categories.  
    - Test slightly higher discounts (1%–2%) in low-performing categories to boost engagement.  
    - Monitor impact on ratings and conversion weekly.  
    **Expected Outcome:** Improved ratings and customer satisfaction across lower-performing categories.
